@@ -78,6 +78,23 @@ ask_me    : object detection, CVAT annotation, model serving, desktop apps
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⬇️ YT Downloader (Linux)</h3>
+      <p>A Linux desktop app for downloading YouTube video and audio — a CustomTkinter GUI over yt-dlp with ffmpeg bundled in, shipped as one self-contained executable.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧾 Invoice Generator</h3>
+      <p>An invoicing desktop app backed by SQLite that produces clean, print-ready PDF invoices on demand — records in, documents out.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
