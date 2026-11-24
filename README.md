@@ -84,8 +84,8 @@ ask_me    : object detection, CVAT annotation, model serving, desktop apps
       <p>A Linux desktop app for downloading YouTube video and audio — a CustomTkinter GUI over yt-dlp with ffmpeg bundled in, shipped as one self-contained executable.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square"/>
+      <img src="https://img.shields.io/badge/CustomTkinter-2B5B84?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>🧾 Invoice Generator</h3>
