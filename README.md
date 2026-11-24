@@ -103,7 +103,14 @@ ask_me    : object detection, CVAT annotation, model serving, desktop apps
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/CustomTkinter-2B5B84?style=flat-square"/>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🗂️ Dataset Engineering &amp; Model Training Pipeline</h3>
+      <p>An end-to-end workflow that turns raw footage and scattered images into clean, well-labelled, augmented datasets — then trains detection models on them. Covers data sorting and de-duplication, cleaning and annotation validation, realistic augmentation, and YOLO/YOLOX training with per-class evaluation.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLO_/_YOLOX-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+      <img src="https://img.shields.io/badge/CVAT-0095FF?style=flat-square&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
