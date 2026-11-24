@@ -113,7 +113,7 @@ ask_me    : object detection, CVAT annotation, model serving, desktop apps
 ### 🧰 Tools & Desktop
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-F5B365?style=for-the-badge&logoColor=black)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-F5B365?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
