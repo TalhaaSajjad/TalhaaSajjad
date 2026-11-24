@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TalhaaSajjad/TalhaaSajjad/main/assets/header.svg" alt="Talha Sajjad — Computer Vision & Full-Stack Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/TalhaaSajjad/TalhaaSajjad/main/assets/banner.svg" alt="Talha Sajjad — Computer Vision & Full-Stack Engineer" width="100%"/>
 </div>
 
 <p align="center">
