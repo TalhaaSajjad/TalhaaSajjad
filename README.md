@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Talha Sajjad — Computer Vision & Full-Stack Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/TalhaaSajjad/TalhaaSajjad/main/assets/header.svg" alt="Talha Sajjad — Computer Vision & Full-Stack Engineer" width="100%"/>
 </div>
 
 <p align="center">
@@ -154,7 +154,7 @@ ask_me    : object detection, CVAT annotation, model serving, desktop apps
 </div>
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="" width="100%"/>
+  <img src="https://raw.githubusercontent.com/TalhaaSajjad/TalhaaSajjad/main/assets/footer.svg" alt="" width="100%"/>
 </div>
 
 <div align="center">
