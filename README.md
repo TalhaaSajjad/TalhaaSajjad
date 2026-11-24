@@ -95,6 +95,16 @@ ask_me    : object detection, CVAT annotation, model serving, desktop apps
       <img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎞️ CCTV Frame Inspector</h3>
+      <p>A desktop tool for working through video frame by frame — load footage, scrub the timeline, step to any frame, and save the ones that matter for annotation or review. Includes a frames-to-video converter to rebuild clips from an image folder.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CustomTkinter-2B5B84?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <div align="center">
