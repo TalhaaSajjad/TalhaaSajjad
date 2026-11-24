@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Talha Sajjad — Computer Vision & Full-Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#1a1206"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b45309"/>
+      <stop offset="0.5" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <path d="M0,158 C150,118 350,198 600,158 C850,118 1050,198 1200,158 L1200,200 L0,200 Z" fill="#b45309" opacity="0.85"/>
+  <path d="M0,174 C200,144 400,204 600,174 C800,144 1000,204 1200,174 L1200,200 L0,200 Z" fill="url(#amber)" opacity="0.55"/>
+  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#ffffff" letter-spacing="1">Talha Sajjad</text>
+  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#f5b365" letter-spacing="3">COMPUTER VISION &amp; FULL-STACK ENGINEER</text>
+</svg>

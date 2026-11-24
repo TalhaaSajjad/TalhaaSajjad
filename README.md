@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b45309,100:0d1117&height=200&section=header&text=Talha%20Sajjad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=16&descFontColor=f5b365" width="100%"/>
+  <img src="./assets/header.svg" alt="Talha Sajjad — Computer Vision & Full-Stack Engineer" width="100%"/>
 </div>
 
 <p align="center">
@@ -154,7 +154,7 @@ ask_me    : object detection, CVAT annotation, model serving, desktop apps
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b45309,100:0d1117&height=120&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" alt="" width="100%"/>
 </div>
 
 <div align="center">
