@@ -112,6 +112,17 @@ ask_me    : object detection, CVAT annotation, model serving, desktop apps
       <img src="https://img.shields.io/badge/CVAT-0095FF?style=flat-square&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ GymFlow — Membership + WhatsApp</h3>
+      <p>A gym membership manager that runs on the gym's own PC and automatically WhatsApps members when their monthly fee is due — plus payments with instant receipts, attendance check-in, a win-back nudge for members who go quiet, and a live owner dashboard. Official WhatsApp Cloud API; Flutter apps for Windows, Android &amp; iOS.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <div align="center">
